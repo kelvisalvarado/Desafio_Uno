@@ -1,6 +1,5 @@
-# Título del Proyecto
+# Solución Desafio 1 Nivel 3 Periodos perdidos
 
-Solución Desafio 1 Nivel 3 Periodos perdidos
 
 Este proyecto expone un API REST que permite invocar al servicio GDD y entregar la respuesta en formato JSON con las fechas recibidas y las fechas faltantes. Entrega la siguiente información:
 
